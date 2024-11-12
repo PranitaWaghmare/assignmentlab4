@@ -1,2 +1,4 @@
-welcome to CDAC ACTS
-this is cloud assinment
+this is git and push to github
+hello everyone 
+ 
+
